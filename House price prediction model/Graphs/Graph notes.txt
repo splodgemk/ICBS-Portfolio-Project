@@ -1,0 +1,2 @@
+When looking the difference between the optimized and unopitimized models predictions we
+can see a subtle but still important imporvement when the model is optimized.
